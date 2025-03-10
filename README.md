@@ -24,22 +24,13 @@
 ### 🛠️ Otras Tecnologías  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)  ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat-square)  
 
-
-## 🌟 Proyectos destacados
-### 🛒 [Sala de Juegos](https://sala-de-juegos-2a66d.web.app/login)  
-Una pagina de juegos donde podras jugar hasta 4 juegos.
-
-### 🔑 [Clinica Online](https://hospitalonline-54e32.web.app/home)  
-Pagina simula ser una clinica online en la cual podes ser paciente, doctor o administrador. Segun el rol podes sacar turnos, establecer dias y horario de trabajo, eliminar o rechazar usuarios, descargar historial clinico, entre otras cosas.
-
-
 ## 📊 Mis estadísticas  
 ![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maurocrip&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocrip&layout=compact&theme=radical)
 
 ## 📫 Conéctate conmigo  
-- 💼 LinkedIn: [Mauro Racioppi](https://www.linkedin.com/in/mauro-racioppi-940169314/)  
-- 🌎 Portafolio: [tuportafolio.com](https://port-folio-ruby-nu.vercel.app)
+- 💼 **LinkedIn**: [Mauro Racioppi](https://www.linkedin.com/in/mauro-racioppi-940169314/)  
+- 🌎 **Portafolio**: [tuportafolio.com](https://port-folio-ruby-nu.vercel.app)
 - 📧 **Email:** [mauroracioppi@gmail.com](mailto:mauroracioppi@gmail.com) 
 
 
